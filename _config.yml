@@ -4,7 +4,7 @@
 
 avatar:
   enable: true
-  url: /static/images/kamuyi.jpg
+  url: /static/images/avatar.jpg
 
 background:
   background_color: '#ffffff'
@@ -82,18 +82,18 @@ theme_layout:
 # -------------------------------------------------------
 
 social:
-  github: https://github.com/heskeybaozi
-  weibo: http://weibo.com/52hezhiyu
+  github: https://github.com/yyywang
+#  weibo: http://weibo.com/52hezhiyu
 
   # Email link, reference to https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#E-mail_links
-  email: mailto:hezhiyu233@foxmail.com
+  email: mailto:ywang_perfect@163.com
 
 
 social_icons:
   enable: true
   # icon name docs: http://fontawesome.io/icons/
   github: fa-github-alt
-  weibo: fa-weibo
+#  weibo: fa-weibo
   email: fa-envelope
   wechat: fa-weixin
   qq: fa-qq
@@ -146,5 +146,5 @@ google_analytics:
 # powered_by: false
 # powered_by: ''
 powered_by:
-  text:  Hexo Theme Lite
-  url:  https://github.com/HeskeyBaozi/hexo-theme-lite/ # or false to disable link
+  text:  ''
+  url:  https://www.cvkid.com/ # or false to disable link
